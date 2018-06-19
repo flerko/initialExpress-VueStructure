@@ -1,0 +1,16 @@
+.DS_Store
+node_modules/
+dist/
+npm-debug.log
+yarn-error.log
+src/stylus/sprite.styl
+/.idea
+
+# Editor directories and files
+.idea
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+.env
+package-lock.json
